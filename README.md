@@ -1,4 +1,8 @@
-# How to use Pollen Solutions Filesystem component with minio
+# How to use Pollen Solutions Filesystem component with MinIO
+
+MinIO is an S3 compatible object storage system.
+This simple application allows you to simply launch MinIO and pair it with Pollen Solutions component to perform the 
+basic actions of adding, reading and deleting files. 
 
 ## Install
 
@@ -14,13 +18,13 @@ git clone git@github.com:jordy-manner/lab-filesystem-minio.git
 composer install
 ```
 
-### Launch the minio service
+### Launch the MinIO service
 
 ```bash
 docker-compose up
 ```
 
-## Configure Minio
+## Configure MinIO
 
 ### Connexion
 
