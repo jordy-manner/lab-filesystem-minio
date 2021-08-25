@@ -1,0 +1,17 @@
+{
+  "name": "jordy-manner/lab-filesystem-minio",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Jordy Manner",
+      "email": "jordy@presstify.com"
+    }
+  ],
+  "require": {
+    "league/flysystem-aws-s3-v3": "^2.0",
+    "pollen-solutions/filesystem": "^1.0",
+    "league/flysystem-ftp": "^2.0",
+    "symfony/yaml": "^5.3"
+  },
+  "minimum-stability": "stable"
+}
