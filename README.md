@@ -1,4 +1,4 @@
-# How to use Pollen Solutions Filesystem component with MinIO
+# Implementation of object storage with Pollen Solutions Filesystem component and MinIO
 
 MinIO is an S3 compatible object storage system.
 This simple application allows you to simply launch MinIO and pair it with Pollen Solutions component to perform the 
